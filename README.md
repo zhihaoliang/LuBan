@@ -17,6 +17,8 @@
   
   dependencies {
   
+                implementation 'com.android.support:exifinterface:28.0.0'
+		
 	        implementation 'com.github.zhihaoliang:LuBan:v1.0'
           
 	}
