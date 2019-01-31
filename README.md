@@ -17,7 +17,7 @@
   
   dependencies {
   
-	        implementation 'com.github.zhihaoliang:Sheetdialog:v1.0'
+	        implementation 'com.github.zhihaoliang:LuBan:v1.0'
           
 	}
   
