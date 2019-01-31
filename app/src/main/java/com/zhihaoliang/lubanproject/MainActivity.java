@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity implements Handler.Callback,
             Luban.with(this).
                     setFileSize(100).
                     setFocusAlpha(true).
-                    setLongSide(3264).
+                    setLongSide(1080).
                     setOriginalPaths(ORGIN_PATH).
                     setOnCompressListener(this).
                     setTargetDir(initTargetDir()).launch();
